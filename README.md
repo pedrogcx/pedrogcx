@@ -1,6 +1,6 @@
-# Oi, eu sou o Pedro
+# Olá! Eu sou o Pedro
 
-Ajudo empresas de engenharia, clínicas e negócios parecidos a serem encontrados e a conseguir mais clientes, com site, tráfego pago e automação do atendimento.
+Ajudo empresas de engenharia, clínicas e negócios semelhantes a serem encontrados e a conseguir mais clientes, com site, tráfego pago e automação do atendimento.
 
 Faço Engenharia Elétrica na UFVJM e tenho a PGX 3D, onde imprimo peças em 3D sob demanda.
 
