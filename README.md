@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Gonzalez 👋
 
-<!--
-**pedrogcx/pedrogcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia Elétrica na UFVJM e fundador da **PGX 3D**, onde faço impressão 3D sob demanda.
+Também desenvolvo sites, sistemas web e automações com **n8n**, e trabalho com **tráfego pago** para ajudar pequenos negócios a conseguir clientes.
 
-Here are some ideas to get you started:
+## Tecnologias e ferramentas
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Tráfego Pago](https://img.shields.io/badge/Tr%C3%A1fego_Pago-4285F4?logo=googleads&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+[Instagram](https://www.instagram.com/pgonzalez.m/)
