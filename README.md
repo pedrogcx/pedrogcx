@@ -13,5 +13,5 @@ Também crio sites e sistemas web, automatizo tarefas repetitivas no n8n e cuido
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![Tráfego Pago](https://img.shields.io/badge/Tr%C3%A1fego_Pago-4285F4?logo=googleads&logoColor=white)
 
-## Fala comigo
-Se quiser trocar uma ideia ou pedir um orçamento, me chama no [Instagram](https://www.instagram.com/pgonzalez.m/).
+## Contato
+Para projetos e orçamentos, entre em contato pelo [Instagram](https://www.instagram.com/pgonzalez.m/).
